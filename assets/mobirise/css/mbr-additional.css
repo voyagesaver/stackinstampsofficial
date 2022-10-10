@@ -2029,15 +2029,6 @@ button {
 .cid-sWrP7vWh7v .copyright > p {
   color: #eff0f6;
 }
-.cid-tjU7f5ZWuF {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-tjU7f5ZWuF img {
-  width: 100%;
-  border-radius: 15px;
-}
 .cid-tjTVmImB5z {
   padding-top: 4rem;
   padding-bottom: 0rem;
@@ -2097,27 +2088,6 @@ button {
 }
 .cid-tjSWCQY7yN a.btn > span {
   margin-left: 0.5rem;
-}
-.cid-tjSVJtrtHi {
-  padding-top: 0rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-tjSVJtrtHi .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tjSVJtrtHi .row {
-  flex-direction: row-reverse;
-}
-.cid-tjSVJtrtHi img {
-  width: 100%;
-}
-@media (max-width: 575px) {
-  .cid-tjSVJtrtHi .top {
-    padding-top: 20px;
-  }
 }
 .cid-tjT0jJvRVT {
   padding-top: 6rem;
@@ -2229,8 +2199,8 @@ button {
   color: #f7f7f7;
 }
 .cid-tjT16Eyf3E {
-  padding-top: 5rem;
-  padding-bottom: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tjT16Eyf3E .mbr-section-subtitle {
@@ -2266,7 +2236,7 @@ button {
   color: #777;
 }
 .cid-tjU9Z5pnp2 {
-  padding-top: 5rem;
+  padding-top: 1rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
