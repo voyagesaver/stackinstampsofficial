@@ -2741,21 +2741,10 @@ button {
   position: absolute;
   top: 0;
 }
-.cid-tjTmzorM8z {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #000000;
-}
-.cid-tjTmzorM8z .mbr-text {
-  color: #ffffff;
-}
-.cid-tjTmzorM8z .mbr-section-subtitle {
-  color: #ffffff;
-}
 .cid-tjTnDlibzx {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 @media (max-width: 991px) {
   .cid-tjTnDlibzx .row {
@@ -2770,20 +2759,20 @@ button {
 }
 .cid-tjTnDlibzx .mbr-text {
   text-align: left;
+  color: #f7f7f7;
 }
 .cid-tjTnDlibzx .mbr-section-title {
   text-align: left;
+  color: #ffffff;
 }
 .cid-tjTnDlibzx .mbr-section-subtitle {
   text-align: left;
+  color: #f7f7f7;
 }
 .cid-tjTngOYXpk {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
-}
-.cid-tjTngOYXpk .row {
-  flex-direction: row-reverse;
 }
 .cid-tjTngOYXpk .row {
   align-items: center;
@@ -2806,7 +2795,6 @@ button {
 @media (min-width: 992px) {
   .cid-tjTngOYXpk .text-wrapper {
     padding: 0 0 0 60px;
-    padding: 0 60px 0 0 ;
   }
 }
 .cid-tjTngOYXpk .text-container {
@@ -2897,4 +2885,16 @@ button {
 }
 .cid-tjTnGpP4O4 .mbr-section-subtitle {
   color: #ffffff;
+}
+#custom-html-4p {
+  /* Type valid CSS here */
+}
+#custom-html-4p div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-4p p {
+  font-size: 60px;
+  color: #777;
 }
