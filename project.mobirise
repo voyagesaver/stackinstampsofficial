@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "becomeadigitalnomad.html",
+    "currentPage": "digitalnomadcourse.html",
     "theme": {
       "name": "creatorm5",
       "title": "CreatorM5",
@@ -4982,7 +4982,8 @@
       "settings": {
         "title": "Digital Nomad Course",
         "meta_descr": "",
-        "footer_custom": "<meta name=\"robots\" content=\"noindex, nofollow\"><style>#__memberspace_modal_protected_page { position:fixed; top:0; left:0; width:100%; height:100%; background:#fff; z-index:2147483646; }</style><div id=\"__memberspace_modal_protected_page\"></div>"
+        "footer_custom": "<meta name=\"robots\" content=\"noindex, nofollow\"><style>#__memberspace_modal_protected_page { position:fixed; top:0; left:0; width:100%; height:100%; background:#fff; z-index:2147483646; }</style><div id=\"__memberspace_modal_protected_page\"></div>",
+        "header_custom": "<script>\nvar MemberSpace = window.MemberSpace || {\"subdomain\":\"stackinstamps\"};\n(function(d){\n  var s = d.createElement(\"script\");\n  s.src = \"https://cdn.memberspace.com/scripts/widgets.js\";\n  var e = d.getElementsByTagName(\"script\")[0];\n  e.parentNode.insertBefore(s,e);\n}(document));\n</script>"
       },
       "components": [
         {
