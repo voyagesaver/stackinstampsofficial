@@ -5729,7 +5729,8 @@
       "settings": {
         "title": "Travel Deals",
         "meta_descr": "Why pay full price when you can save up to 30%. Wayaway is an innovative flight search engine trusted by millions of users, that will not only compare airfares from 728 airlines, hundreds of travel sites and agencies to find the best option for your specific dates, but it will also offer another period when the cost may be even lower.",
-        "footer_custom": "<meta name=\"robots\" content=\"noindex, nofollow\"><style>#__memberspace_modal_protected_page { position:fixed; top:0; left:0; width:100%; height:100%; background:#fff; z-index:2147483646; }</style><div id=\"__memberspace_modal_protected_page\"></div>"
+        "footer_custom": "<meta name=\"robots\" content=\"noindex, nofollow\"><style>#__memberspace_modal_protected_page { position:fixed; top:0; left:0; width:100%; height:100%; background:#fff; z-index:2147483646; }</style><div id=\"__memberspace_modal_protected_page\"></div>",
+        "header_custom": "<!-- GetResponse Analytics -->\n  <script type=\"text/javascript\">\n      \n  (function(m, o, n, t, e, r, _){\n          m['__GetResponseAnalyticsObject'] = e;m[e] = m[e] || function() {(m[e].q = m[e].q || []).push(arguments)};\n          r = o.createElement(n);_ = o.getElementsByTagName(n)[0];r.async = 1;r.src = t;r.setAttribute('crossorigin', 'use-credentials');_.parentNode .insertBefore(r, _);\n      })(window, document, 'script', 'https://ga.getresponse.com/script/74fcfe86-ac0d-4726-9e09-9d9a11cea50f/ga.js', 'GrTracking');\n\n\n  </script>\n  <!-- End GetResponse Analytics -->"
       },
       "components": [
         {
