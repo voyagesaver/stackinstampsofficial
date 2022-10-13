@@ -25,7 +25,7 @@
         "isRoundedButtons": false,
         "isGhostButtonBorder": false,
         "underlinedLinks": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "titlePreset": "Youtube Video Creator",
