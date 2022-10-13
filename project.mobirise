@@ -57,7 +57,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 273,
+    "uniqCompNum": 274,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "chatbutton": {},
@@ -5031,6 +5031,100 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = \"color\")": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = \"image\")": {
+              "background-image": "url(@bg-value)"
+            },
+            ".row": {
+              "align-items": "center",
+              "justify-content": "space-between"
+            },
+            ".mbr-section-title": {
+              "width": "100%",
+              "text-align": "left",
+              "margin-bottom": "24px",
+              "line-height": "1.171em"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#4c4c4c",
+              "width": "100%",
+              "text-align": "left"
+            },
+            ".mbr-text": {
+              "color": "#8c8c95",
+              "margin-bottom": "36px"
+            },
+            ".right-side": {
+              "max-width": "554px"
+            },
+            ".rs": {
+              "margin-right": "60px"
+            },
+            ".mbr-section-btn": {
+              "width": "auto",
+              "display": "inline-block"
+            },
+            ".margin": {
+              "margin-right": "14px"
+            },
+            ".gray": {
+              "padding": "45px 0",
+              "background-color": "@accentColor"
+            },
+            "img": {
+              "position": "relative",
+              "right": "40px"
+            },
+            "@media (max-width: 767px)": {
+              ".gray": {
+                "padding": "0px 0 5px"
+              },
+              "img": {
+                "right": "initial",
+                "width": "90%",
+                "margin": "auto",
+                "top": "-35px"
+              },
+              ".col-md-5": {
+                "padding-top": "90px"
+              }
+            },
+            "@media (max-width: 430px)": {
+              ".b": {
+                "margin-bottom": "10px"
+              }
+            },
+            ".btn": {
+              "margin-top": "20px"
+            },
+            "a.btn > span": {
+              "margin-left": "0.5rem"
+            },
+            "& when (@reverseContent)": {
+              ".row": {
+                "flex-direction": "row-reverse"
+              }
+            }
+          },
+          "_name": "header1",
+          "_sourceTheme": "creatorm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header1\" group=\"Headers\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Items</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Button\" name=\"showButton\" checked=\"\">\n        <input type=\"color\" title=\"Accent\" name=\"accentColor\" value=\"#eff0f6\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected=\"\">\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row\">\n            <div class=\"col-12 col-md-6\">\n                <div class=\"right-side\">\n                    <h5 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n                        <b>An YouTube Channel for&nbsp; entrepreneurs</b>\n                    </h5>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text, .button-align\" mbr-if=\"showText\">\n                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor viverra eget sit sapien, velit\n                        scelerisque volutpat vitae.\n                    </p>\n                    <div class=\"button-align\">\n                        <div class=\"mbr-section-btn\" mbr-if=\"showButton\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-primary\" href=\"\" data-app-placeholder=\"Type Text\">Subscribe</a><a class=\"btn btn-secondary\" href=\"\" data-app-placeholder=\"Type Text\">Last Video</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-5\">\n                <div class=\"gray\">\n                    <img src=\"../_images/image1.jpg\" alt=\"Mobirise\" class=\"align\">\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tk7EG9rxVM",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header1-7l"
         },
         {
           "alias": false,
