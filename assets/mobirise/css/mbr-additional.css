@@ -4813,59 +4813,270 @@ button {
   -webkit-align-items: center;
   align-items: center;
 }
-.cid-tjUTq9G1hy {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+.cid-tknKqNHO7L {
+  padding-top: 225px;
+  padding-bottom: 225px;
+  background-image: url("../../../assets/images/pexels-gustavo-fring-4173241-5760x3840.jpg");
+}
+.cid-tknKqNHO7L .mbr-section-title {
+  margin-bottom: 1.8rem;
+}
+.cid-tknKqNHO7L .mbr-text {
+  margin-bottom: 2.7rem;
+}
+@media (max-width: 767px) {
+  .cid-tknKqNHO7L .align-center {
+    text-align: center;
+  }
+}
+.cid-tknRs0hKkY {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-tknRs0hKkY .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: currentColor;
+  margin-left: 1rem;
+}
+.cid-tknRs0hKkY .panel-group {
+  border: none;
+}
+.cid-tknRs0hKkY .card-header {
+  border: none;
+}
+.cid-tknRs0hKkY .card {
+  background: #fedb01;
+  border: 1px solid #fedb01;
+  padding: 2rem 4rem;
+  border-radius: 1rem;
+}
+@media (max-width: 767px) {
+  .cid-tknRs0hKkY .card {
+    padding: 0 1rem;
+  }
+}
+.cid-tknRs0hKkY .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-tknRs0hKkY .panel-body,
+.cid-tknRs0hKkY .card-header {
+  padding: 1rem 0;
+}
+.cid-tknRs0hKkY .panel-title-edit {
+  color: #000000;
+}
+.cid-tknRs0hKkY .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-tknRs0hKkY .panel-title-edit,
+.cid-tknRs0hKkY .mbr-iconfont {
+  color: #000000;
+  text-align: center;
+}
+.cid-tknRs0hKkY .panel-text {
+  color: #000000;
+}
+.cid-tknRs0hKkY .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tknRs0hKkY .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tknOQ0jHys {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #000000;
+}
+.cid-tknOQ0jHys .main_header {
+  margin: 25px 0 44px;
+}
+.cid-tknOQ0jHys .mbr-section-title {
+  color: #ffffff;
+  margin-bottom: 13px;
+}
+.cid-tknOQ0jHys .mbr-text {
+  color: #ffffff;
+  line-height: 1.2727em;
+}
+.cid-tknOQ0jHys .card_wrapper {
+  margin-bottom: 30px;
+}
+@media (min-width: 992px) {
+  .cid-tknOQ0jHys .card_wrapper {
+    padding: 0 15px;
+  }
+}
+.cid-tknOQ0jHys .card_top {
+  display: flex;
+  align-items: baseline;
+  color: #ffffff;
+}
+.cid-tknOQ0jHys .line {
+  border-bottom: 1px solid #ffffff;
+  flex-grow: 1;
+  margin: 0 15px;
+}
+.cid-tknOQ0jHys .card_title {
+  color: #ffde59;
+  line-height: 1.2727em;
+}
+.cid-tknOQ0jHys .card_price {
+  color: #ffffff;
+}
+.cid-tknOQ0jHys .card_text {
+  color: #ffffff;
+}
+.cid-tko4abUjUc {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-tjUTq9G1hy .mbr-section-subtitle {
+.cid-tko4abUjUc .mbr-section-subtitle {
   color: #8c8c95;
   text-align: center;
   max-width: 552px;
   margin: auto;
 }
-.cid-tjUTq9G1hy .mbr-section-title {
+.cid-tko4abUjUc .mbr-section-title {
   text-align: center;
   color: #14142b;
   padding-bottom: 24px;
   max-width: 752px;
   margin: auto;
 }
-.cid-tjUTq9G1hy .row {
+.cid-tko4abUjUc .row {
   align-items: center;
   height: 100%;
 }
-.cid-tjUTq9G1hy .wrapper {
+.cid-tko4abUjUc .wrapper {
   margin: auto;
 }
-.cid-tjUTrmevvq {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+#custom-html-8f {
+  /* Type valid CSS here */
+}
+#custom-html-8f div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-8f p {
+  font-size: 60px;
+  color: #777;
+}
+.cid-tknAzXSwEX {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-tjUTrmevvq .mbr-section-subtitle {
-  color: #14142b;
-  text-align: center;
-  margin: auto;
-  padding: 119px 95px;
-  background-color: #fedb01;
+.cid-tknAzXSwEX .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: currentColor;
+  margin-left: 1rem;
 }
-.cid-tjUTrmevvq .row {
+.cid-tknAzXSwEX .panel-group {
+  border: none;
+}
+.cid-tknAzXSwEX .card-header {
+  border: none;
+}
+.cid-tknAzXSwEX .card {
+  background: #121212;
+  border: 1px solid #eeeeee;
+  padding: 2rem 4rem;
+  border-radius: 1rem;
+}
+@media (max-width: 767px) {
+  .cid-tknAzXSwEX .card {
+    padding: 0 1rem;
+  }
+}
+.cid-tknAzXSwEX .panel-title {
+  display: flex;
   align-items: center;
-  height: 100%;
+  justify-content: space-between;
 }
-.cid-tjUTrmevvq .wrapper {
+.cid-tknAzXSwEX .panel-body,
+.cid-tknAzXSwEX .card-header {
+  padding: 1rem 0;
+}
+.cid-tknAzXSwEX .panel-title-edit {
+  color: #000000;
+}
+.cid-tknAzXSwEX .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-tknAzXSwEX .panel-title-edit,
+.cid-tknAzXSwEX .mbr-iconfont {
+  color: #f9f9f9;
+}
+.cid-tknAzXSwEX .panel-text {
+  color: #ffffff;
+}
+.cid-tknAzXSwEX .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tknAzXSwEX .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tko3pz9XAE {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-tko3pz9XAE .mbr-section-title {
+  margin-bottom: 24px;
+  line-height: 1.171em;
+  color: #14142b;
+  display: inline-block;
+}
+.cid-tko3pz9XAE .mbr-text {
+  color: #8c8c95;
+  margin-bottom: 26px;
+  text-align: center;
+  max-width: 739px;
   margin: auto;
 }
-@media (max-width: 770px) {
-  .cid-tjUTrmevvq .mbr-section-subtitle {
-    padding: 70px 75px;
+.cid-tko3pz9XAE .button-align {
+  text-align: center;
+}
+.cid-tko3pz9XAE .margin {
+  margin-right: 14px;
+}
+.cid-tko3pz9XAE .mbr-section-btn {
+  display: block;
+}
+@media (max-width: 440px) {
+  .cid-tko3pz9XAE .margin {
+    margin-right: 0px;
+  }
+  .cid-tko3pz9XAE .b {
+    margin-bottom: 20px;
   }
 }
-@media (max-width: 576px) {
-  .cid-tjUTrmevvq .mbr-section-subtitle {
-    padding: 45px 35px;
-  }
+.cid-tko3pz9XAE .btn {
+  margin-top: 20px;
+}
+.cid-tko3pz9XAE a.btn > span {
+  margin-left: 0.5rem;
 }
 .cid-tjZ5wCaUe7 {
   z-index: 1000;
