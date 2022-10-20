@@ -62,7 +62,7 @@
     "screenshot": "screenshot.png",
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "cvyunchgiw",
+    "mbrsiteDomain": "ls2bxi9vm1",
     "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
@@ -76,7 +76,7 @@
       "paymentSystem": "stripe"
     },
     "publishChangesOnly": true,
-    "global_header_custom": "<script>\nvar MemberSpace = window.MemberSpace || {\"subdomain\":\"stackinstamps\"};\n(function(d){\n  var s = d.createElement(\"script\");\n  s.src = \"https://cdn.memberspace.com/scripts/widgets.js\";\n  var e = d.getElementsByTagName(\"script\")[0];\n  e.parentNode.insertBefore(s,e);\n}(document));\n</script>"
+    "global_header_custom": "<script>\nvar MemberSpace = window.MemberSpace || {\"subdomain\":\"stackinstamps\"};\n(function(d){\n  var s = d.createElement(\"script\");\n  s.src = \"https://cdn.memberspace.com/scripts/widgets.js\";\n  var e = d.getElementsByTagName(\"script\")[0];\n  e.parentNode.insertBefore(s,e);\n}(document));\n</script>\n\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1187356651845118');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1187356651845118&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->"
   },
   "pages": {
     "index.html": {
