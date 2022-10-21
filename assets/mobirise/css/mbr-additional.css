@@ -5785,6 +5785,7 @@ button {
 .cid-tjTeB2INNu .mbr-text,
 .cid-tjTeB2INNu .mbr-section-btn {
   text-align: left;
+  color: #000000;
 }
 .cid-tjZtDLVlRH {
   padding-top: 5rem;
@@ -6318,6 +6319,97 @@ button {
 }
 .cid-tkn5CzIdpo a.btn > span {
   margin-left: 0.5rem;
+}
+.cid-tkW1EO4SkM {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tkW1EO4SkM .card-subtitle {
+  text-align: left;
+  margin-left: -15px;
+  color: #8c8c95;
+}
+.cid-tkW1EO4SkM .shadow {
+  border-radius: 34px;
+  box-shadow: 0 5px 12px 0 rgba(20, 20, 43, 0.05) !important;
+  overflow: visible;
+  padding: 48px 42px 38px;
+  border: 1px solid #eff0f6;
+}
+.cid-tkW1EO4SkM .iconfont-wrapper {
+  text-align: left;
+  margin-bottom: 16px;
+}
+.cid-tkW1EO4SkM .card-text {
+  margin-bottom: 16px;
+  text-align: left;
+  color: #8c8c95;
+}
+.cid-tkW1EO4SkM .button-align {
+  margin-top: 36px;
+  text-align: center;
+}
+.cid-tkW1EO4SkM .mbr-section-btn {
+  width: auto;
+  display: inline-block;
+}
+.cid-tkW1EO4SkM img {
+  border-radius: 10%;
+  height: 65px;
+  width: auto;
+  margin: 0;
+}
+.cid-tkW1EO4SkM .mbr-iconfont::before {
+  font-size: 25px;
+}
+.cid-tkW1EO4SkM .card-title {
+  margin-bottom: 4px;
+  padding: 0;
+  margin-left: -15px;
+}
+.cid-tkW1EO4SkM .col-12.col-md-6.col-lg-4 {
+  margin-top: 30px;
+}
+.cid-tkW1EO4SkM .col-12.col-md-6.col-lg-4:nth-child(1) {
+  margin-top: 0px;
+}
+.cid-tkW1EO4SkM .col-12.col-md-6.col-lg-4:nth-child(2) {
+  margin-top: 0px;
+}
+.cid-tkW1EO4SkM .col-12.col-md-6.col-lg-4:nth-child(3) {
+  margin-top: 0px;
+}
+@media (max-width: 992px) {
+  .cid-tkW1EO4SkM .col-12.col-md-6.col-lg-4:nth-child(3) {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-tkW1EO4SkM .col-12.col-md-6.col-lg-4:nth-child(2) {
+    margin-top: 30px;
+  }
+}
+.cid-tkW1EO4SkM .align {
+  display: flex;
+  align-items: center;
+}
+.cid-tkW1EO4SkM .mbr-section-title {
+  margin-bottom: 56px;
+  color: #14142b;
+}
+.cid-tkW1EO4SkM .btn {
+  margin-top: 20px;
+}
+@media (max-width: 767px) {
+  .cid-tkW1EO4SkM .shadow {
+    padding: 40px 40px 32px;
+  }
+}
+@media (max-width: 479px) {
+  .cid-tkW1EO4SkM .shadow {
+    padding: 33px 25px 28px;
+  }
 }
 .cid-tjZ73M6i17 {
   padding-top: 30px;
